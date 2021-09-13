@@ -16,4 +16,6 @@ https://www.figma.com/file/asA73o0U1fNXWjxCF4dNEM/Local-z-landing?node-id=1%3A51
 
 **Ссылка на страницу**
 
-- [LOCAL-Z](https://aleksey-dev-crt.github.io/Fix-Errors/index.html)
+- [LOCAL-Z](https://aleksey-dev-crt.github.io/Fix-Errors/)
+
+
